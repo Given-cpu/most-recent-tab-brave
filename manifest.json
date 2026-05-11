@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Most Recent Tab",
+  "version": "1.0",
+  "description": "Jump to your most recent tabs with keyboard shortcuts",
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "permissions": [
+  "tabs",
+  "windows",
+  "storage"
+],
+
+  "commands": {
+    "most-recent-tab-1": {
+      "description": "Jump to most recent tab"
+    },
+    "most-recent-tab-2": {
+      "description": "Jump to second most recent tab"
+    },
+    "most-recent-tab-3": {
+      "description": "Jump to third most recent tab"
+    }
+  }
+}
