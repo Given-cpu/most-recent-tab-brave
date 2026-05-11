@@ -11,6 +11,7 @@ Jump to your most recently used tabs with keyboard shortcuts.
 
 ## Installation
 Load unpacked in brave://extensions (Developer mode on)
+Now it's already on Chorme extension shop, name is 'Most Recent Tab' !
 
 ## Credits
 Inspired by [Most-Recent-Tab](https://github.com/thePaulV/Most-Recent-Tab) 
