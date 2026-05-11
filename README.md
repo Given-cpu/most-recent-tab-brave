@@ -10,7 +10,8 @@ Jump to your most recently used tabs with keyboard shortcuts.
 - Works across multiple windows
 
 ## Installation
-Load unpacked in brave://extensions (Developer mode on)
+Load unpacked in brave://extensions (Developer mode on).
+
 Now it's already on Chorme extension shop, name is 'Most Recent Tab' !
 
 ## Credits
